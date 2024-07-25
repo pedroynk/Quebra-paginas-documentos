@@ -22,8 +22,8 @@ def split_pdf_on_term(input_pdf_path, output_pdf_path, split_term):
     output_pdf.save(output_pdf_path)
     output_pdf.close()
 
-input_pdf_path = "C:/Users/Pedro/Downloads/Confissao_Divida_Notas_Sinal_962004.pdf"
-output_pdf_path = "C:/Users/Pedro/Downloads/Atualizado_Confissao_Divida_Notas_Sinal_962004.pdf"
+input_pdf_path = ## Caminho do PDF que deseja separar as páginas
+output_pdf_path = ## Caminho de saída do PDF já separado
 
 split_term = "Brasília - DF, 26 de julho de 2024"
 
