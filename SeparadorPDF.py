@@ -25,7 +25,7 @@ def split_pdf_on_term(input_pdf_path, output_pdf_path, split_term):
 input_pdf_path = ## Caminho do PDF que deseja separar as páginas
 output_pdf_path = ## Caminho de saída do PDF já separado
 
-split_term = "Brasília - DF, 26 de julho de 2024"
+split_term = # Inserir termo a ser localizado para fazer a quebra
 
 split_pdf_on_term(input_pdf_path, output_pdf_path, split_term)
 
